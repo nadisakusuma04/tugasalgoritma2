@@ -44,7 +44,8 @@ DEKLARASI:
  nominal_diskon: Real   
  total_diskon: Real  
 
- ALGORITMA:  
+ DESKRIPSI
+ :  
   INPUT (is_member)   
   INPUT (jumlah_buku)   
   INPUT (total_awal)   
