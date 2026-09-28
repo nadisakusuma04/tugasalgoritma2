@@ -44,10 +44,10 @@ DEKLARASI:
  nominal_diskon: Real   
  total_diskon: Real  
 
- ALGORITMA: 
-  INPUT (is_member)  
-  INPUT (jumlah_buku)  
-  INPUT (total_awal)  
+ ALGORITMA:  
+  INPUT (is_member)   
+  INPUT (jumlah_buku)   
+  INPUT (total_awal)   
 
  Validation loop
 WHILE (`total_awal < 0 OR jumlah_buku < 1`) DO  
